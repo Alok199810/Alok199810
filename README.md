@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Check- https://alok199810.github.io/Alok199810/
+Check -Portfolio- https://alok199810.github.io/Alok199810/
 
 <!--
 **Alok199810/Alok199810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
